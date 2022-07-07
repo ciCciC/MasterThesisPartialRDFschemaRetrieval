@@ -1,11 +1,11 @@
 # Master's Thesis Applied Data Science
 Department of Information and Computing Sciences
 
-<br/>
-
 Universiteit Utrecht | Utrecht University
 
-## Partial RDF Schema Retrieval
+<br/>
+
+# Partial RDF Schema Retrieval
 
 ### Author
 Koray Poyraz
