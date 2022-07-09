@@ -25,7 +25,7 @@ There are various data structures that represent data interrelationships in the 
 <br/>
 <h1 align="center">Setup</h1>
 
-# Prerequisite
+## Prerequisite
 - Python 3.8
   - https://www.python.org/downloads/
 - Miniforge for Conda (optional)
@@ -35,14 +35,14 @@ There are various data structures that represent data interrelationships in the 
 - IDE (e.g. PyCharm Professional)
   - https://www.jetbrains.com/pycharm
 
-# How I did it
+## How I did it
 1. install PyCharm Professional
 2. install Miniforge to isolate the libraries so it does not effect your general package manager
 3. create a 'scientific' project selecting Conda as package manager and Python 3.8
 
 <img src="images/example_project_setup.png">
 
-# Installation guide for this project
+## Installation guide for this project
 ### (1) install jupyter notebook
 Open a terminal from the directory of the project and enter the following command:
 ```sh
@@ -54,10 +54,10 @@ Run the code cell called 'Installer of the required libraries
 ' in apv6.ipynb notebook file
 ```
 
-# Reproducing
+## Reproducing
 For reproducing you run the code cells (with shift-enter) in apv6.ipynb notebook file
 
-# Data dump
+## Data dump
 We created several data dump files containing nodes (partial schemas) obtained after 10 iterations. They are stored in two dump files. One for DBpedia and the other for Wikidata. 
 ### File path of the dump files
 The dump files along with the measurements over 10 iterations can be found in the directory called "data".
@@ -90,7 +90,7 @@ The dump file is in JSON format. It is an Array of elements. Each element repres
     - two, a node id of an explicit class for **hierarchical linking** 
       - e.g. 'Person'
 
-# Experiment on DBpedia and Wikidata
+## Experiment on DBpedia and Wikidata
 
 ### Total summary of 10 iterations
 <img src="images/summary_dbpedia_wikidata.png">
