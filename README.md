@@ -124,7 +124,7 @@ The [master thesis](https://studenttheses.uu.nl/handle/20.500.12932/42404) can b
   title   = "Partial RDF Schema Retrieval",
   school  = "Universiteit Utrecht",
   address = "the Netherlands",
-  year    = "2022"
+  year    = "2022",
   url     = "https://studenttheses.uu.nl/handle/20.500.12932/42404"
 }
 ```
