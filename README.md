@@ -120,11 +120,12 @@ A graphical representation after 10 iterations. Note, blue color represents the 
 The [master thesis](https://studenttheses.uu.nl/handle/20.500.12932/42404) can be cited as follow:
 ```bibtex
 @mastersthesis{poyraz-koray-2022-PRSR,
-  author  = "Koray Poyraz",
-  title   = "Partial RDF Schema Retrieval",
-  school  = "Universiteit Utrecht",
-  address = "the Netherlands",
-  year    = "2022",
-  url     = "https://studenttheses.uu.nl/handle/20.500.12932/42404"
+  doi     = {20.500.12932/42404},
+  url     = {https://studenttheses.uu.nl/handle/20.500.12932/42404},
+  author  = {Koray Poyraz},
+  title   = {Partial RDF Schema Retrieval},
+  school  = {Universiteit Utrecht},
+  address = {the Netherlands},
+  year    = {2022}
 }
 ```
