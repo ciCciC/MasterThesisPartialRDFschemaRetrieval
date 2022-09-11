@@ -1,7 +1,8 @@
 <h1 align="center">Master's Thesis Applied Data Science</h1>
-Department of Information and Computing Sciences
 
-Utrecht University | Universiteit Utrecht
+- Department of Information and Computing Sciences
+- Utrecht University | Universiteit Utrecht
+- This repository contains the source code for the master thesis [Partial RDF Schema Retrieval](https://studenttheses.uu.nl/handle/20.500.12932/42404)
 
 <br/>
 
@@ -54,8 +55,8 @@ Run the code cell called 'Installer of the required libraries
 ' in apv6.ipynb notebook file
 ```
 
-## Reproducing
-For reproducing you run the code cells (with shift-enter) in apv6.ipynb notebook file
+## Reproducibility
+For reproducibility you run the code cells (with shift-enter) in apv6.ipynb notebook file
 
 ## Data dump
 We created several data dump files containing nodes (partial schemas) obtained after 10 iterations. They are stored in two dump files. One for DBpedia and the other for Wikidata. 
@@ -117,15 +118,14 @@ A graphical representation after 10 iterations. Note, blue color represents the 
 <img src="images/render_wikidata.png" width="800">
 
 ## Citation
-The [master thesis](https://studenttheses.uu.nl/handle/20.500.12932/42404) can be cited as follow:
 ```bibtex
 @mastersthesis{poyraz-koray-2022-PRSR,
-  doi     = {20.500.12932/42404},
-  url     = {https://studenttheses.uu.nl/handle/20.500.12932/42404},
   author  = {Koray Poyraz},
   title   = {Partial RDF Schema Retrieval},
   school  = {Universiteit Utrecht},
+  year    = {2022},
+  type    = {Master's Thesis},
   address = {the Netherlands},
-  year    = {2022}
+  url     = {https://studenttheses.uu.nl/handle/20.500.12932/42404}
 }
 ```
