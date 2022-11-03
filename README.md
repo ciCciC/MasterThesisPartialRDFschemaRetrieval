@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/511666828.svg)](https://zenodo.org/badge/latestdoi/511666828)
+
 <h1 align="center">Master's Thesis Applied Data Science</h1>
 
 - Department of Information and Computing Sciences
